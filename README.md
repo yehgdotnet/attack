@@ -5,7 +5,7 @@ This repo hosts utilities/scripts/files to assist emulation of MITRE ATT&CK / PR
 
 ## Web tools
 
-* **obfuscator-using-env-vars.htm** Spoof command line characters with environment variables https://yehgdotnet.github.io/attack/obfuscator-using-env-vars.htm
+* **obfuscator-using-env-vars.htm** Spoof command line characters with environment variables [https://yehgdotnet.github.io/attack/obfuscator-using-env-vars.htm](https://yehgdotnet.github.io/attack/obfuscator-using-env-vars.htm)
 
 ## Command-line tools
 
