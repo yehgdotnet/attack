@@ -5,12 +5,13 @@ This repo hosts utilities/scripts/files to assist emulation of MITRE ATT&CK / PR
 
 ## Web tools
 
-* **obfuscator-using-env-vars.htm** Spoof command line characters with environment variables [https://yehgdotnet.github.io/attack/obfuscator-using-env-vars.htm](https://yehgdotnet.github.io/attack/obfuscator-using-env-vars.htm)
+* **obfuscator/obfuscator-using-env-vars.htm** Spoof command line characters with environment variables [https://yehgdotnet.github.io/attack/obfuscator/obfuscator-using-env-vars.htm](https://yehgdotnet.github.io/attack/obfuscator/obfuscator-using-env-vars.htm)
 
 ## Command-line tools
 
-* **rtl.go**  - Generate spoofed file extension with right-to-left overide character.
+* **rtl/rtl.go**  - Generate spoofed file extension with right-to-left overide character.
   * Usage: go run rtl.go -src benign.exe -ext PDF (will copy benign.exe to benignexe.pdf)
+* **rtl/rtl_avbypass.go**  - Generate spoofed file extension with right-to-left overide character using AV bypass timer approach.
 
 ## Files
 
