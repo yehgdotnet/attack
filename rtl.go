@@ -75,7 +75,7 @@ func usage(){
 	fmt.Println(`
 Usage: 
 
-go run ` + filename + ` -src benign.exe -dst pdf
+go run ` + filename + ` -src benign.exe -ext pdf
 `)
 }
 func main() {
