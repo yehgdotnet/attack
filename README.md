@@ -14,7 +14,7 @@ This repo hosts utilities/scripts/files to assist emulation of MITRE ATT&CK / PR
 
 ## Files
 
-* r2l-benignexe-pdf.zip-  benign.exe spoofed as PDF file using right-to-left overide character
+* **r2l-benignexe-pdf.zip** -  benign.exe spoofed as PDF file using right-to-left overide character
 
 ## Contact
 
