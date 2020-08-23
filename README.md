@@ -12,6 +12,7 @@ This repo hosts utilities/scripts/files to assist emulation of MITRE ATT&CK / PR
 * **rtl/rtl.go**  - Generate spoofed file extension with right-to-left overide character.
   * Usage: go run rtl.go -src benign.exe -ext PDF (will copy benign.exe to benignexe.pdf)
 * **rtl/rtl_avbypass.go**  - Generate spoofed file extension with right-to-left overide character using AV bypass timer approach.
+* **masquerader** - Simulate execution of untrusted binary under the disguise of window binary names.
 
 ## Files
 
