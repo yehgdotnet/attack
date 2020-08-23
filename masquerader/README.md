@@ -10,8 +10,11 @@ To simulate execution of non-signed executables under the name of windows binari
 
 This will generate winbins.txt in the current directory.
 
-2. go run main.go
+2. Run
 
+```
+go run main.go
+```
 
 Every 4 seconds, the program will copy source.exe to c:\windows\temp directory with each name listed in winbins.txt.  
 The source.exe contains auto-exit and auto-delete functionality which cleans up itself. 
