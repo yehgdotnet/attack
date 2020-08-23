@@ -1,0 +1,1 @@
+dir /b /s c:\windows\*.exe > winbins.txt
