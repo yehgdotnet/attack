@@ -14,7 +14,7 @@ This repo hosts utilities/scripts/files to assist emulation of MITRE ATT&CK / PR
 * **rtl/rtl_avbypass.go**  - Generate spoofed file extension with right-to-left overide character using AV bypass timer approach.
 * **masquerader** - Simulate execution of untrusted binary under the disguise of window binary names.
 * **file-read** - Simulate execution of file read access operation.
-* **http-post** - Simulate execution of a binary posting data to http servers.
+* **http-poster** - Simulate execution of a binary posting data to http servers.
 
 ## Files
 
